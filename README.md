@@ -7,7 +7,7 @@
 ### Student: Whitney Ntinyari
 ### Course: BSD
 ### Date: 08/02/2026
-### Registration Number: 24.07965
+### Registration Number: 24/07965
 
 ---
 
