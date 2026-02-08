@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PolyGlot Universal Translator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🌍 PolyGlot Universal</h1>
+            <p class="subtitle">Translating 200+ languages for everyone</p>
+        </header>
+
+        <main>
+            <div class="translator-box">
+                <div class="input-section">
+                    <textarea id="input-text" placeholder="Type text to translate..."></textarea>
+                    <select id="source-lang">
+                        <option value="auto">Auto-detect</option>
+                        <option value="en">English</option>
+                        <option value="es">Spanish</option>
+                    </select>
+                </div>
+
+                <button id="translate-btn">Translate →</button>
+
+                <div class="output-section">
+                    <textarea id="output-text" placeholder="Translation will appear here..." readonly></textarea>
+                    <select id="target-lang">
+                        <option value="es">Spanish</option>
+                        <option value="en">English</option>
+                        <option value="fr">French</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="info-box">
+                <h3>📋 Project Proposal</h3>
+                <p>This is a student project to build a universal language translator. View the full proposal on <a href="README.md">GitHub</a>.</p>
+            </div>
+        </main>
+
+        <footer>
+            <p>Made with ❤️ by [Your Name] | Student Project</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
