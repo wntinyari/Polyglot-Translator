@@ -4,10 +4,10 @@
 
 ## Project Proposal
 
-### Student: [Whitney Ntinyari]
-### Course: [BSD]
-### Date: [08/02/2026]
-### Registration Number: [24.07965]
+### Student: Whitney Ntinyari
+### Course: BSD
+### Date: 08/02/2026
+### Registration Number: 24.07965
 
 ---
 
@@ -82,10 +82,10 @@ I'm a student learning software development. This is my first major project!
 
 ## Contact
 
-- **GitHub:** [@YOUR-USERNAME](https://github.com/wntinyari)
-- **Email:** [your-email@example.com](mailto:squid.whit15@gmail.com)
+- **GitHub:** wntinyari(https://github.com/wntinyari)
+- **Email:** squid.whit15@gmail.com(mailto:squid.whit15@gmail.com)
 
 ---
 
 *Project status: Planning phase*
-*Last updated: [08/02/2026]*
+*Last updated: 08/02/2026*
