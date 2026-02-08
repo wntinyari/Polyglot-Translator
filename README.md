@@ -4,9 +4,10 @@
 
 ## Project Proposal
 
-### Student: [Your Full Name]
-### Course: [Your Class Name]
-### Date: [Today's Date]
+### Student: [Whitney Ntinyari]
+### Course: [BSD]
+### Date: [08/02/2026]
+### Registration Number: [24.07965]
 
 ---
 
@@ -71,7 +72,7 @@ It's:
 
 ## Live Demo
 
-**[Click here for live demo](https://YOUR-USERNAME.github.io/universal-polyglot)**
+**[Click here for live demo](https:/wntinyari.github.io/universal-polyglot)**
 
 *(Will be active after I add the code)*
 
@@ -81,10 +82,10 @@ I'm a student learning software development. This is my first major project!
 
 ## Contact
 
-- **GitHub:** [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **GitHub:** [@YOUR-USERNAME](https://github.com/wntinyari)
+- **Email:** [your-email@example.com](mailto:squid.whit15@gmail.com)
 
 ---
 
 *Project status: Planning phase*
-*Last updated: [Today's Date]*
+*Last updated: [08/02/2026]*
