@@ -82,7 +82,7 @@ I'm a student learning software development. This is my first major project!
 
 ## Contact
 
-- **GitHub:** @wntinyari(https:/wntinyari/universal polyglot)
+- **GitHub:** @wntinyari(https://github.com/wntinyari)
 - **Email:** squid.whit15@gmail.com(mailto:squid.whit15@gmail.com)
 
 ---
